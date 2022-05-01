@@ -36,7 +36,7 @@ This is a library which can communicate with vehicles using OBD-II adapters. It 
 ## Requirements
 
 - iOS 9.0+
-- Swift 3.0+
+- Swift 5.0+
 - Xcode 8.0+
 - Mac OS X 10.0+ 
 
