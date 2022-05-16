@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.author           = { 'overswift' => 'sergiy.loza@lemberg.co.uk' }
   s.source           = { :git => 'https://github.com/lemberg/obd2-swift-lib.git', :tag => s.version }
 
-  s.ios.deployment_target = '15.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'OBD2-Swift/Classes/**/*'
 
