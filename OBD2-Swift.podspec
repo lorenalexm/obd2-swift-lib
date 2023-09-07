@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'OBD2-Swift/Classes/**/*'
+  s.source_files = 'Sources/OBD2swiftlib/Classes/**/*'
 
 end
